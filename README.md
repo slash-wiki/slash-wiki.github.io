@@ -19,6 +19,7 @@ Please choose a protocol and a language:
 | Rest API                         | Lambda Functions                   |
 | -------------------------------- | ---------------------------------- |
 | [Go](rest/go.md)                 | [Go](lambda/go.md)                 |
+| [Ruby](rest/ruby.md)             | [Ruby](lambda/ruby.md)             |
 
 Please don't hesitate to open [an issue](https://github.com/they-them/slash-wiki/issues) or [pull request](https://github.com/slash-wiki/slash-wiki.github.io/compare) if you wish to add additional languages.
 
