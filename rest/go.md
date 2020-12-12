@@ -6,7 +6,7 @@ The code for this document is available [here](https://github.com/slash-wiki/sla
 
 Please follow [this guide](https://golang.org/doc/install) to get Go installed on your machine.
 
-Next, let's create a Go project.
+Next, let's create a Go project:
 
 1. Run `$ go mod init github.com/USERNAME/slash-wiki-rest-go`.
 2. Run `$ mkdir -p cmd/slash-wiki-rest-go`.
@@ -120,7 +120,6 @@ type Parameters struct {
 }
 
 type Message struct {
-	// Response type for returning Slack messages.
 	ResponseType string `json:"response_type"`
 	Text         string `json:"text"`
 }
@@ -128,7 +127,7 @@ type Message struct {
 
 ### Deployment
 
-Rest-based Slack slash commands can be deployed to a number of different services. This guide will use Heroku.
+Rest-based Slack slash commands can be deployed to a number of different services. This guide will use Heroku:
 
 To deploy this app on Heroku:
 
