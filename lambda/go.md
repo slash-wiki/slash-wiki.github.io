@@ -100,7 +100,7 @@ To deploy this app on Vercel:
 
 1. Create a Vercel account.
 2. Create a Vercel app (leave everything as Other and default settings).
-3. Let Vercel the app deploy.
+3. Let Vercel deploy the app.
 
 And voilà.
 
