@@ -21,7 +21,7 @@ Please choose a protocol and a language:
 | [Go](rest/go.md)                 | [Go](lambda/go.md)                 |
 | [Ruby](rest/ruby.md)             | [Ruby](lambda/ruby.md)             |
 
-Please don't hesitate to open [an issue](https://github.com/they-them/slash-wiki/issues) or [pull request](https://github.com/slash-wiki/slash-wiki.github.io/compare) if you want to see additional languages showcased in this resource. 
+Please don't hesitate to open [an issue](https://github.com/slash-wiki/slash-wiki.github.io/issues/new) or [pull request](https://github.com/slash-wiki/slash-wiki.github.io/compare) if you want to see additional languages showcased in this resource. 
 
 ## Do you need help?
 
