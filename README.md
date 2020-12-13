@@ -12,7 +12,7 @@ This resource is aimed at beginners of the [Slack API](https://api.slack.com). T
 
 ## How to use this resource?
 
-This resource is going to cover two ways to interact with the Slack slash command API: traditional Rest APIs and Lambda functions. 
+This resource is going to cover two ways to interact with the Slack slash command API: traditional Rest APIs and Lambda functions. This resource uses [Vercel](https://vercel.com) to deploy the Lambda functions and [Heroku](https://dashboard.heroku.com) to deploy the Rest APIs. 
 
 Please choose a protocol and a language:
 
