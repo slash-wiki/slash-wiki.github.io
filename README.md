@@ -4,7 +4,7 @@
 
 ## Who created this?
 
-This resource was written by Luna Graysen ([**@they-them**](https://github.com/they-them) on GitHub). They are a software engineer with over 6 years of experience in app development, CI/CD and APIs. Please consider [sponsoring them on GitHub](https://github.com/sponsors/they-them).
+This resource was written by Luna Graysen ([**@they-them**](https://github.com/they-them) on GitHub). They are a software engineer with over 6 years of experience in app development, CI/CD and APIs. Please consider [sponsoring them on GitHub](https://github.com/sponsors/they-them). This resource is not associated with Slack.
 
 ## Who is this resource for?
 
