@@ -1,6 +1,6 @@
-## Go (Lambda)
-
 The code for this document is available [here](https://github.com/slash-wiki/slash-wiki-lambda-go).
+
+## Go (Lambda)
 
 ### Introduction
 
