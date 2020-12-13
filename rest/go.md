@@ -140,4 +140,4 @@ And voilà.
 
 ## Do you need help?
 
-Please feel free to open an issue on GitHub [here](https://github.com/they-them/slash-wiki/issues) if you have any questions.
+Please feel free to open an issue on GitHub [here](https://github.com/slash-wiki/slash-wiki.github.io/issues) if you have any questions.
