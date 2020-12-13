@@ -1,6 +1,6 @@
-## Ruby (Rest)
-
 The code for this document is available [here](https://github.com/slash-wiki/slash-wiki-rest-ruby).
+
+## Ruby (Rest)
 
 ### Introduction
 
